@@ -1,2 +1,2 @@
 # Fire
-San Diego Fire Simulation
+San Diego Fire 3D Model
